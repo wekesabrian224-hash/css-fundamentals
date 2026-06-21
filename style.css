@@ -15,12 +15,12 @@ nav.navbar ul {
   padding: 0;
 }
 
-nav.navbar li {
+nav.navbar ul li {
   display: inline;
   margin: 0 1em;
 }
 
-nav.navbar a {
+nav.navbar ul li a {
   color: #fff;
 }
 
